@@ -2,7 +2,7 @@ import React from 'react'
 
 function Masthead() {
   return (
-    <div className='flex flex-col justify-start px-8 lg:px-14 pt-8 lg:pt-16 pb-6 lg:pb-12  bg-gradient-to-r from-slate-200 to-slate-100'>
+    <div className='flex flex-col justify-start px-8 lg:px-14 pt-8 lg:pt-16 pb-6 lg:pb-12  bg-gradient-to-r from-sky-50 to-slate-50'>
 
       <div className="flex flex-col lg:flex-row gap-2 lg:gap-6 text-slate-500 text-sm pt-4 pb-2">
         <span className='flex flex-row items-center gap-2'>
